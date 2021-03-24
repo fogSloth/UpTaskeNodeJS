@@ -1,0 +1,25 @@
+{
+  "name": "uptasknodejs",
+  "version": "1.0.0",
+  "description": "Proyecto para el curso ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcontrcl655/UpTaskeNodeJS.git"
+  },
+  "author": "Raul Contreras Clavijo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcontrcl655/UpTaskeNodeJS/issues"
+  },
+  "homepage": "https://github.com/rcontrcl655/UpTaskeNodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
